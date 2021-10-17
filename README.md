@@ -1,2 +1,3 @@
-# show-argv-rust
- a simplest app to show argv (for debug purpose)
+# show-argv
+
+a simplest app to show argv (for debug purpose).
